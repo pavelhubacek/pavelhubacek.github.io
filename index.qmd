@@ -1,0 +1,23 @@
+---
+title: Pavel Hubáček
+image: profile.jpg
+about:
+  template: jolla
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:hubacek@iuuk.mff.cuni.cz
+    - icon: mortar-board
+      text: Google Scholar
+      href: https://scholar.google.com/citations?user=1kM7gtQAAAAJ
+    - icon: book
+      text: DBLP
+      href: https://dblp.org/pid/133/2211.html
+    - icon: person
+      text: ORCID
+      href: https://orcid.org/0000-0002-6850-6222
+---
+
+I am a **cryptographer**. My research explores the theoretical foundations of security, focusing on the intersections of **cryptography**, **computational complexity**, and **game theory**.
+
+Currently, I hold a joint position at the [Institute of Mathematics of the Czech Academy of Sciences](https://www.math.cas.cz/) and the [Computer Science Institute of Charles University](https://www.mff.cuni.cz/en/iuuk).
