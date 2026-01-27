@@ -3,10 +3,11 @@ project:
 
 website:
   title: "Pavel Hubáček"
-  # navbar:
-  #   left:
-  #     - href: index.qmd
-  #       text: Home
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - publications.qmd   
   #     - about.qmd
 
 format:

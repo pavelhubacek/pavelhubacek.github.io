@@ -1,0 +1,20 @@
+---
+title: "Research"
+bibliography: references.bib
+csl: ieee.csl
+nocite: |
+  @*
+---
+
+My research spans various areas of theoretical computer science.
+
+In **cryptography**, I currently focus on both foundations and the design of efficient **Zero-Knowledge Proofs**.
+
+In **computational complexity**, I am particularly interested in understanding total NP search problems (**TFNP**).
+
+A significant part of my work explores the bridge between **game theory** and cryptography, designing and analysing protocols that are secure in the presence of rational utility-maximizing agents.
+
+My publications in reverse chronological order:
+
+::: {#refs}
+:::
