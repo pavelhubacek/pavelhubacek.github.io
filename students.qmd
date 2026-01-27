@@ -1,0 +1,64 @@
+---
+title: "Students"
+---
+
+I actively involve students at all levels, i.e., BSc, MSc, and PhD, in research projects. If you are a student based in Prague interested in working with me, feel free to contact me. Currently, I cannot supervise students remotely.
+
+## Current Group
+
+### PhD Students
+* **Juraj Belohorec** (since 2024)
+* **Kristýna Mašková** (since 2024)
+
+### Master Students
+* **Jan Frnka** (since 2025)
+* **Benjamín Benčík** (since 2024)
+* **Matúš Maďar** (since 2023)
+    * *Thesis Topic:* Practical oracle-based Bitcoin payments
+
+---
+
+## Alumni
+
+### PhD Graduates
+* **Veronika Králová** (2021)
+    * *Thesis:* [On the complexity of search problems with a unique solution](https://dspace.cuni.cz/handle/20.500.11956/173877)
+
+### MSc Graduates
+* **Berenika Richterová** (2025)
+    * *Thesis:* [On security of adaptor signatures](https://dspace.cuni.cz/handle/20.500.11956/199268)
+    * 🏆 **Shared 1st prize** in KEYMAKER 2025
+* **Dominik Stejskal** (2025)
+    * *Thesis:* [On the power of algebraic group models](https://dspace.cuni.cz/handle/20.500.11956/199269)
+* **Martin Pastyřík** (2024)
+    * *Thesis:* [On extractability of bivariate KZG polynomial commitment](https://dspace.cuni.cz/handle/20.500.11956/193094)
+* **Kristýna Mašková** (2024)
+    * *Thesis:* [Preprocessing techniques in algebraic cryptanalysis](https://dspace.cuni.cz/handle/20.500.11956/190632)
+    * 🏆 **2nd prize** in KEYMAKER 2024
+* **Petr Sedláček** (2023)
+    * *Thesis:* [Security of trapdoor permutations under preimage leakage](https://dspace.cuni.cz/handle/20.500.11956/185133)
+* **Kateřina Bžatková** (2022)
+    * *Thesis:* [Multivariate polynomial commitment schemes](https://dspace.cuni.cz/handle/20.500.11956/176780)
+* **Tomáš Krňák** (2022)
+    * *Thesis:* [Verifiable delay functions from Lucas sequences](https://dspace.cuni.cz/handle/20.500.11956/173690)
+* **Ľubica Jančová** (2022)
+    * *Thesis:* [Effectivity and limitations of homomorphic secret sharing schemes](https://dspace.cuni.cz/handle/20.500.11956/171862)
+* **Jan Václavek** (2021)
+    * *Thesis:* [On search complexity of discrete logarithm](https://dspace.cuni.cz/handle/20.500.11956/127495)
+    * 🏆 **Dean's prize** for outstanding thesis in Mathematics
+
+### BSc Graduates
+* **Karel Velička** (2025)
+    * *Thesis:* [Zero-knowledge virtual machines](https://dspace.cuni.cz/handle/20.500.11956/200877)
+* **Benjamín Benčík** (2024)
+    * *Thesis:* [On PlonK SNARK](https://dspace.cuni.cz/handle/20.500.11956/192912)
+* **Svetlana Ivanova** (2024)
+    * *Thesis:* [Practical batch proofs of exponentiation](https://dspace.cuni.cz/handle/20.500.11956/192048)
+* **Martin Pastyřík** (2021)
+    * *Thesis:* [Security of cryptographic schemes for contact tracing](https://dspace.cuni.cz/handle/20.500.11956/127736)
+    * 🏆 **2nd prize** in KEYMAKER 2021
+* **Petr Sedláček** (2021)
+    * *Thesis:* [Limitations of incompressible encodings](https://dspace.cuni.cz/handle/20.500.11956/128272)
+    * 🏆 **3rd prize** in SVOČ 2021 (TCS and AI)
+* **Tomáš Krňák** (2019)
+    * *Thesis:* [Modern applications of zero-knowledge protocols](https://dspace.cuni.cz/handle/20.500.11956/107708)

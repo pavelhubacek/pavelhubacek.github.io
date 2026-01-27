@@ -5,10 +5,8 @@ website:
   title: "Pavel Hubáček"
   navbar:
     left:
-      - href: index.qmd
-        text: Home
-      - publications.qmd   
-  #     - about.qmd
+      - research.qmd
+      - students.qmd
 
 format:
   html:
@@ -17,6 +15,3 @@ format:
       - brand
     css: styles.css
     toc: true
-
-
-
