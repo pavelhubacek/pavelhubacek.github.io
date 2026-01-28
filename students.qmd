@@ -27,7 +27,7 @@ I actively involve students at all levels, i.e., BSc, MSc, and PhD, in research 
 ### MSc Graduates
 * **Berenika Richterová** (2025)
     * *Thesis:* [On security of adaptor signatures](https://dspace.cuni.cz/handle/20.500.11956/199268)
-    * 🏆 **Shared 1st prize** in KEYMAKER 2025
+    * 🏆 **1st prize** in KEYMAKER 2025
 * **Dominik Stejskal** (2025)
     * *Thesis:* [On the power of algebraic group models](https://dspace.cuni.cz/handle/20.500.11956/199269)
 * **Martin Pastyřík** (2024)
