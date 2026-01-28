@@ -190,7 +190,7 @@ ul.task-list li input[type="checkbox"] {
 <li><strong>Berenika Richterová</strong> (2025)
 <ul>
 <li><em>Thesis:</em> <a href="https://dspace.cuni.cz/handle/20.500.11956/199268">On security of adaptor signatures</a></li>
-<li>🏆 <strong>Shared 1st prize</strong> in KEYMAKER 2025</li>
+<li>🏆 <strong>1st prize</strong> in KEYMAKER 2025</li>
 </ul></li>
 <li><strong>Dominik Stejskal</strong> (2025)
 <ul>
@@ -337,7 +337,7 @@ ul.task-list li input[type="checkbox"] {
     }
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
-        var filterRegex = new RegExp("https:\/\/pavelhubacek\.com");
+        var filterRegex = new RegExp('/' + window.location.host + '/');
       var isInternal = (href) => {
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }

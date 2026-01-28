@@ -10,11 +10,11 @@ My research spans various areas of theoretical computer science.
 
 In **cryptography**, I currently focus on both foundations and the design of efficient **Zero-Knowledge Proofs**.
 
-In **computational complexity**, I am particularly interested in understanding total NP search problems (**TFNP**).
+In **computational complexity**, I am particularly interested in understanding the complexity class **TFNP** of total NP search problems.
 
-A significant part of my work explores the bridge between **game theory** and cryptography, designing and analysing protocols that are secure in the presence of rational utility-maximizing agents.
+A significant part of my work explores the bridge between **game theory** and cryptography, designing and analysing protocols with **security against utility-maximizing agents**.
 
-My publications in reverse chronological order:
+### Publications
 
 ::: {#refs}
 :::

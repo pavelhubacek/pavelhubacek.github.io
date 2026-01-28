@@ -129,8 +129,14 @@ div.csl-indent {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
-        
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#publications" id="toc-publications" class="nav-link active" data-scroll-target="#publications">Publications</a></li>
+  </ul>
+</nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
@@ -156,9 +162,10 @@ div.csl-indent {
 
 <p>My research spans various areas of theoretical computer science.</p>
 <p>In <strong>cryptography</strong>, I currently focus on both foundations and the design of efficient <strong>Zero-Knowledge Proofs</strong>.</p>
-<p>In <strong>computational complexity</strong>, I am particularly interested in understanding total NP search problems (<strong>TFNP</strong>).</p>
-<p>A significant part of my work explores the bridge between <strong>game theory</strong> and cryptography, designing and analysing protocols that are secure in the presence of rational utility-maximizing agents.</p>
-<p>My publications in reverse chronological order:</p>
+<p>In <strong>computational complexity</strong>, I am particularly interested in understanding the complexity class <strong>TFNP</strong> of total NP search problems.</p>
+<p>A significant part of my work explores the bridge between <strong>game theory</strong> and cryptography, designing and analysing protocols with <strong>security against utility-maximizing agents</strong>.</p>
+<section id="publications" class="level3">
+<h3 class="anchored" data-anchor-id="publications">Publications</h3>
 <div id="refs" class="references csl-bib-body" data-entry-spacing="0" role="list">
 <div id="ref-DBLP:journals/cic/HoffmannHI25" class="csl-entry" role="listitem">
 <div class="csl-block">[1] C. Hoffmann, P. Hubáček, and S. Ivanova</div><div class="csl-block"><span>“<a href="https://doi.org/10.62056/ABVUR-IUC">Practical batch proofs of exponentiation</a>,”</span> <em><span>IACR</span> Communications in Cryptology</em>, 2025</div>
@@ -250,6 +257,7 @@ div.csl-indent {
 </div>
 
 
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
@@ -325,7 +333,7 @@ div.csl-indent {
     }
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
-        var filterRegex = new RegExp("https:\/\/pavelhubacek\.com");
+        var filterRegex = new RegExp('/' + window.location.host + '/');
       var isInternal = (href) => {
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }

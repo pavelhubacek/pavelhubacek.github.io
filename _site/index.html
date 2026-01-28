@@ -120,8 +120,10 @@ ul.task-list li input[type="checkbox"] {
 <div class="quarto-title-meta">
   </div>
 </header><main class="content" id="quarto-document-content">
-<p>I am a <strong>cryptographer</strong>. My research explores the theoretical foundations of security, focusing on the intersections of <strong>cryptography</strong>, <strong>computational complexity</strong>, and <strong>game theory</strong>.</p>
-<p>Currently, I hold a joint position at the <a href="https://www.math.cas.cz/">Institute of Mathematics of the Czech Academy of Sciences</a> and the <a href="https://www.mff.cuni.cz/en/iuuk">Computer Science Institute of Charles University</a>.</p>
+<p>I am a <strong>cryptographer</strong>.</p>
+<p>My research explores the theoretical foundations of security, focusing on the intersections of <strong>cryptography</strong>, <strong>computational complexity</strong>, and <strong>game theory</strong>.</p>
+<p>Currently, I am jointly affiliated with the <a href="https://www.math.cas.cz/index.php/department/detail/16">Institute of Mathematics of the Czech Academy of Sciences</a> and the <a href="https://www.mff.cuni.cz/en/iuuk">Computer Science Institute of Charles University</a>.</p>
+<p>I got my PhD in computer science from <strong>Aarhus University</strong> after finishing my undergraduate studies in mathematics at <strong>Charles University</strong>. Before returning to Prague, I was a postdoctoral fellow at the <strong>Weizmann Institute of Science</strong> and <strong>Reichman University</strong> (IDC Herzliya).</p>
 
 
 </main> 
@@ -212,7 +214,7 @@ ul.task-list li input[type="checkbox"] {
     }
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
-        var filterRegex = new RegExp("https:\/\/pavelhubacek\.com");
+        var filterRegex = new RegExp('/' + window.location.host + '/');
       var isInternal = (href) => {
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }

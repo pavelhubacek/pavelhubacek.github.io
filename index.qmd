@@ -18,6 +18,10 @@ about:
       href: https://orcid.org/0000-0002-6850-6222
 ---
 
-I am a **cryptographer**. My research explores the theoretical foundations of security, focusing on the intersections of **cryptography**, **computational complexity**, and **game theory**.
+I am a **cryptographer**.
 
-Currently, I hold a joint position at the [Institute of Mathematics of the Czech Academy of Sciences](https://www.math.cas.cz/) and the [Computer Science Institute of Charles University](https://www.mff.cuni.cz/en/iuuk).
+My research explores the theoretical foundations of security, focusing on the intersections of **cryptography**, **computational complexity**, and **game theory**.
+
+Currently, I am jointly affiliated with the [Institute of Mathematics of the Czech Academy of Sciences](https://www.math.cas.cz/index.php/department/detail/16) and the [Computer Science Institute of Charles University](https://www.mff.cuni.cz/en/iuuk).
+
+I got my PhD in computer science from **Aarhus University** after finishing my undergraduate studies in mathematics at **Charles University**. Before returning to Prague, I was a postdoctoral fellow at the **Weizmann Institute of Science** and **Reichman University** (IDC Herzliya).
