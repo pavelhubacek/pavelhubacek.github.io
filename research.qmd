@@ -14,7 +14,11 @@ In **computational complexity**, I am particularly interested in understanding t
 
 A significant part of my work explores the bridge between **game theory** and cryptography, designing and analysing protocols with **security against utility-maximizing agents**.
 
+### Preprints
+
+* J. Belohorec, P. Hubáček, and D. Stejskal, "[On Lifting AGM Security to AGM with Oblivious Sampling](https://eprint.iacr.org/2026/201)" 
+
 ### Publications
 
-::: {#refs}
+::: {#refs-papers}
 :::
