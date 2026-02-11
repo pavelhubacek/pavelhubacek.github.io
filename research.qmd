@@ -2,6 +2,7 @@
 title: "Research"
 bibliography: references.bib
 csl: ieee.csl
+reference-section-title: false  # <--- Hides the "References" header
 nocite: |
   @*
 ---
@@ -19,6 +20,5 @@ A significant part of my work explores the bridge between **game theory** and cr
 * J. Belohorec, P. Hubáček, and D. Stejskal, "[On Lifting AGM Security to AGM with Oblivious Sampling](https://eprint.iacr.org/2026/201)" 
 
 ### Publications
-
-::: {#refs-papers}
+::: {#refs} 
 :::
