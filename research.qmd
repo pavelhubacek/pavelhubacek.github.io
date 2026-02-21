@@ -17,7 +17,10 @@ A significant part of my work explores the bridge between **game theory** and cr
 
 ### Preprints
 
-* J. Belohorec, P. Hubáček, and D. Stejskal, "[On Lifting AGM Security to AGM with Oblivious Sampling](https://eprint.iacr.org/2026/201)" 
+* P. Chmel, P. Hubáček, and D. Stejskal\
+"[Knowledge Soundness of Polynomial Commitments in the Algebraic Group Model Does Not Guarantee Extractability](https://eprint.iacr.org/2026/284)" 
+* J. Belohorec, P. Hubáček, and D. Stejskal\
+"[On Lifting AGM Security to AGM with Oblivious Sampling](https://eprint.iacr.org/2026/201)" 
 
 ### Publications
 ::: {#refs} 
