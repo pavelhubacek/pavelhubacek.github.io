@@ -1,6 +1,6 @@
 ---
 title: Pavel Hubáček
-image: profile.jpg
+image: profile-PH.jpg
 about:
   template: jolla
   links:
