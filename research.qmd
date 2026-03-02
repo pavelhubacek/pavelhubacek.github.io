@@ -17,6 +17,8 @@ A significant part of my work explores the bridge between **game theory** and cr
 
 ### Preprints
 
+* P. Hubáček\
+"[Black-Box PWPP Is Not Turing-Closed](http://arxiv.org/abs/2602.23809)" 
 * P. Chmel, P. Hubáček, and D. Stejskal\
 "[Knowledge Soundness of Polynomial Commitments in the Algebraic Group Model Does Not Guarantee Extractability](https://eprint.iacr.org/2026/284)" 
 * J. Belohorec, P. Hubáček, and D. Stejskal\
