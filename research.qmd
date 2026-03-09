@@ -17,6 +17,8 @@ A significant part of my work explores the bridge between **game theory** and cr
 
 ### Preprints
 
+* J. Belohorec, P. Hubáček, A. Kalsta, and K. Mašková\
+"[CHOPIN: Optimal Pairing-Based Multilinear Polynomial Commitments from Bivariate KZG](https://eprint.iacr.org/2026/480)" 
 * P. Hubáček\
 "[Black-Box PWPP Is Not Turing-Closed](http://arxiv.org/abs/2602.23809)" 
 * P. Chmel, P. Hubáček, and D. Stejskal\
