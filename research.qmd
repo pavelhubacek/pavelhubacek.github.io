@@ -17,10 +17,8 @@ A significant part of my work explores the bridge between **game theory** and cr
 
 ### Preprints
 
-* J. Grebík, P. Hubáček, M. Koutecký, M. Kripner, V. Rozhoň, R. Šámal, and A. Zámečník\
+* M. Balko, J. Grebík, P. Hubáček, M. Koutecký, M. Kripner, V. Rozhoň, R. Šámal, and A. Zámečník\
 "[Bolzano: Case Studies in LLM-Assisted Mathematical Research](https://arxiv.org/abs/2604.16989)"
-* J. Belohorec, P. Hubáček, A. Kalsta, and K. Mašková\
-"[CHOPIN: Optimal Pairing-Based Multilinear Polynomial Commitments from Bivariate KZG](https://eprint.iacr.org/2026/480)" 
 * P. Hubáček\
 "[Black-Box PWPP Is Not Turing-Closed](http://arxiv.org/abs/2602.23809)" 
 * P. Chmel, P. Hubáček, and D. Stejskal\
