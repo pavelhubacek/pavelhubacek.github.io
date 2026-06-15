@@ -13,8 +13,6 @@ I actively involve students at all levels, i.e., BSc, MSc, and PhD, in research 
 ### Master Students
 * **Jan Frnka** (since 2025)
 * **Benjamín Benčík** (since 2024)
-* **Matúš Maďar** (since 2023)
-    * *Thesis Topic:* Practical oracle-based Bitcoin payments
 
 ---
 
@@ -25,6 +23,8 @@ I actively involve students at all levels, i.e., BSc, MSc, and PhD, in research 
     * *Thesis:* [On the complexity of search problems with a unique solution](https://dspace.cuni.cz/handle/20.500.11956/173877)
 
 ### MSc Graduates
+* **Matúš Maďar** (2026)
+    * *Thesis:* Practical oracle-based Bitcoin payments
 * **Berenika Richterová** (2025)
     * *Thesis:* [On security of adaptor signatures](https://dspace.cuni.cz/handle/20.500.11956/199268)
     * 🏆 **1st prize** in KEYMAKER 2025
