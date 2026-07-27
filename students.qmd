@@ -24,7 +24,7 @@ I actively involve students at all levels, i.e., BSc, MSc, and PhD, in research 
 
 ### MSc Graduates
 * **Matúš Maďar** (2026)
-    * *Thesis:* Practical oracle-based Bitcoin payments
+    * *Thesis:* [Practical oracle-based Bitcoin payments](https://dspace.cuni.cz/handle/20.500.11956/209708)
 * **Berenika Richterová** (2025)
     * *Thesis:* [On security of adaptor signatures](https://dspace.cuni.cz/handle/20.500.11956/199268)
     * 🏆 **1st prize** in KEYMAKER 2025
